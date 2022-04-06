@@ -1,0 +1,523 @@
+{
+  "types": {
+    "Bookmark": {
+      "pluralLabel": "Bookmarks"
+    },
+    "Publication": {
+      "pluralLabel": "Publications"
+    },
+    "GoldStandardPublication": {
+      "pluralLabel": "GoldStandardPublications"
+    },
+    "GoldStandardBookmark": {
+      "pluralLabel": "GoldStandardBookmarks"
+    },
+    "Tag": {
+      "pluralLabel": "Tags"
+    },
+    "User": {
+      "pluralLabel": "Users"
+    },
+    "Sphere": {
+      "pluralLabel": "Spheres"
+    }
+  },
+  "properties": {
+    "count": {
+      "valueType": "number"
+    },
+    "date": {
+      "valueType": "date"
+    },
+    "changeDate": {
+      "valueType": "date"
+    },
+    "url": {
+      "valueType": "url"
+    },
+    "id": {
+      "valueType": "url"
+    },
+    "tags": {
+      "valueType": "item"
+    },
+    "user": {
+      "valueType": "item"
+    }
+  },
+  "items": [
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/2717a03038e1e11a0afb84e2f10e46f55/gdmcbain",
+      "tags": [
+        "91f10-history-political-science"
+      ],
+      "intraHash": "717a03038e1e11a0afb84e2f10e46f55",
+      "interHash": "780a5c8b9c6c4fc7aa4d57d1b9cee4de",
+      "label": "A book of the body politic : connecting biology, politics and social theory",
+      "user": "gdmcbain",
+      "description": "A book of the body politic : connecting biology, politics and social theory (eBook, 2020) [WorldCat.org]",
+      "date": "2021-03-19 01:50:47",
+      "changeDate": "2021-03-19 01:50:47",
+      "count": 1,
+      "pub-type": "book",
+      "year": "2020",
+      "url": "https://www.worldcat.org/title/book-of-the-body-politic-connecting-biology-politics-and-social-theory/oclc/1226720171&referer=brief_results",
+      "author": [
+        "Bruno Latour",
+        "Simon Schaffer",
+        "Pasquale Gagliardi"
+      ],
+      "authors": [
+        {
+          "first": "Bruno",
+          "last": "Latour"
+        },
+        {
+          "first": "Simon",
+          "last": "Schaffer"
+        },
+        {
+          "first": "Pasquale",
+          "last": "Gagliardi"
+        }
+      ],
+      "isbn": "9788896445228 8896445221",
+      "refid": "1226720171",
+      "bibtexKey": "latour2020politic"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/29d91fb47115fee7aaba3c2be23f73080/jenvalentine",
+      "tags": [
+        "Business",
+        "Organization",
+        "Equality",
+        "Feminism"
+      ],
+      "intraHash": "9d91fb47115fee7aaba3c2be23f73080",
+      "interHash": "cdb42da9d15397d66ec02cfad53f4a85",
+      "label": "Diversity writ large",
+      "user": "jenvalentine",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-02-06 18:03:02",
+      "changeDate": "2018-02-06 21:45:12",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/23fa4c51dc720609980ff070f987ba7fc/jennnippert",
+      "tags": [
+        "best_practices",
+        "knowledge_transfer",
+        "boundary_objects"
+      ],
+      "intraHash": "3fa4c51dc720609980ff070f987ba7fc",
+      "interHash": "53fb1cf9ff636ecda63a1fae9ead2647",
+      "label": "Diversity writ large: Forging the link between diverse people and diverse organisational possibilities",
+      "user": "jennnippert",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-04-24 16:01:06",
+      "changeDate": "2018-04-24 16:01:06",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "note": "Diversity, Social Capital and Knowledge Distribution, Knowledge Risk Management blog post",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/23fa4c51dc720609980ff070f987ba7fc/matttaylor815",
+      "tags": [
+        "Boundary-Objects",
+        "Communities-Of-Practice",
+        "Organizational-Knowledge",
+        "Knowledge-Management",
+        "Knowledge-Transfer"
+      ],
+      "intraHash": "3fa4c51dc720609980ff070f987ba7fc",
+      "interHash": "53fb1cf9ff636ecda63a1fae9ead2647",
+      "label": "Diversity writ large: Forging the link between diverse people and diverse organisational possibilities",
+      "user": "matttaylor815",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-05-04 03:47:06",
+      "changeDate": "2018-05-04 03:47:06",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "note": "Diversity, Social Capital and Knowledge Distribution, Knowledge Risk Management blog post",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/29d91fb47115fee7aaba3c2be23f73080/kkwi223",
+      "tags": [
+        "tacitknowledgebetter",
+        "BlogPost3",
+        "knowledgeandinvolvingworkingclassindecesionmaking",
+        "knowledgeanddiversity"
+      ],
+      "intraHash": "9d91fb47115fee7aaba3c2be23f73080",
+      "interHash": "cdb42da9d15397d66ec02cfad53f4a85",
+      "label": "Diversity writ large",
+      "user": "kkwi223",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-02-12 01:45:05",
+      "changeDate": "2018-02-12 04:02:22",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "note": "Blog Post 3",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/29d91fb47115fee7aaba3c2be23f73080/baharrison",
+      "tags": [
+        "innovation",
+        "blog#4",
+        "diversityofthought",
+        "knowledgecreation"
+      ],
+      "intraHash": "9d91fb47115fee7aaba3c2be23f73080",
+      "interHash": "cdb42da9d15397d66ec02cfad53f4a85",
+      "label": "Diversity writ large",
+      "user": "baharrison",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-05-05 02:45:18",
+      "changeDate": "2018-05-05 02:45:18",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/23fa4c51dc720609980ff070f987ba7fc/stephenantczak",
+      "tags": [
+        "km",
+        "communities_of_practice",
+        "diversity",
+        "organizational-knowledge"
+      ],
+      "intraHash": "3fa4c51dc720609980ff070f987ba7fc",
+      "interHash": "53fb1cf9ff636ecda63a1fae9ead2647",
+      "label": "Diversity writ large: Forging the link between diverse people and diverse organisational possibilities",
+      "user": "stephenantczak",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-04-12 14:23:27",
+      "changeDate": "2018-04-12 14:23:27",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "note": "Diversity, Social Capital and Knowledge Distribution, Knowledge Risk Management blog post",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/23fa4c51dc720609980ff070f987ba7fc/ljohnson24",
+      "tags": [
+        "diversity",
+        "knowledge-distribution",
+        "knowledge-management",
+        "organizational-communication"
+      ],
+      "intraHash": "3fa4c51dc720609980ff070f987ba7fc",
+      "interHash": "53fb1cf9ff636ecda63a1fae9ead2647",
+      "label": "Diversity writ large: Forging the link between diverse people and diverse organisational possibilities",
+      "user": "ljohnson24",
+      "description": "",
+      "date": "2018-05-04 02:51:47",
+      "changeDate": "2018-05-05 03:05:42",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/29d91fb47115fee7aaba3c2be23f73080/ajwi2337",
+      "tags": [
+        "communities_of_practice",
+        "diversity",
+        "equal_opportunities",
+        "organizational_knowledge"
+      ],
+      "intraHash": "9d91fb47115fee7aaba3c2be23f73080",
+      "interHash": "cdb42da9d15397d66ec02cfad53f4a85",
+      "label": "Diversity writ large",
+      "user": "ajwi2337",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-02-27 04:25:45",
+      "changeDate": "2018-02-27 04:25:45",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/23fa4c51dc720609980ff070f987ba7fc/akvandegrift",
+      "tags": [
+        "modernist",
+        "diversity",
+        "organization",
+        "review"
+      ],
+      "intraHash": "3fa4c51dc720609980ff070f987ba7fc",
+      "interHash": "53fb1cf9ff636ecda63a1fae9ead2647",
+      "label": "Diversity writ large: Forging the link between diverse people and diverse organisational possibilities",
+      "user": "akvandegrift",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-04-20 02:15:16",
+      "changeDate": "2018-04-20 02:15:16",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "note": "Diversity, Social Capital and Knowledge Distribution, Knowledge Risk Management blog post",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/29d91fb47115fee7aaba3c2be23f73080/wsilberman",
+      "tags": [
+        "hybridization",
+        "organizational-learning",
+        "organizational-structure",
+        "knowledge-work"
+      ],
+      "intraHash": "9d91fb47115fee7aaba3c2be23f73080",
+      "interHash": "cdb42da9d15397d66ec02cfad53f4a85",
+      "label": "Diversity writ large",
+      "user": "wsilberman",
+      "description": "Author mentions the term \"communities of practice\" ",
+      "date": "2018-04-26 01:18:56",
+      "changeDate": "2018-04-26 01:18:56",
+      "count": 5,
+      "pub-type": "article",
+      "journal": "Journal of Organizational Change Management",
+      "publisher": "Emerald",
+      "year": "2004",
+      "url": "https://doi.org/10.1108%2F09534810410538360",
+      "author": [
+        "Ngaire Bissett"
+      ],
+      "authors": [
+        {
+          "first": "Ngaire",
+          "last": "Bissett"
+        }
+      ],
+      "volume": "17",
+      "number": "3",
+      "pages": "315--325",
+      "abstract": "Both postmodernism and corporate culturalism, each in distinctly different ways, have had the effect of suppressing links between diverse populations and identity politics in regards to the work environment. For example, the \"politics of difference\" debates of the 1980s began to take on ominous developments in the 1990s with the dispersal of multiple identity characteristics into a fragmented morass. In turn, personal diversity attributes have been collapsed into the agenda of corporate cultural cloning such that an individual's presentation of self is expected to conform to malestream managerial characterisations. However, there is evidence of contradictory impulses associated with these events, which provides space to envisage a contemporary form of community-orientated activism that avoids the dilemmas of overly disparate difference approaches and narrowly prescribed models of subjectivity. This article describes how such a committed social movement politic might be operationalised in organisational teaching contexts. The objective is to demonstrate the relevance of poststructural feminist ideas of communities of practice and notions of relationalism as a substantial charter for enriching organisational life. Ironically, in the current \"new economy\" environment, the discourse of management itself provides a means for such an endeavour to be legitimated. The article addresses the crucial factors required to achieve this substantive change process via expanded notions of difference, diversity and hybridity.",
+      "doi": "10.1108/09534810410538360",
+      "bibtexKey": "Bissett_2004"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/2fb7edce6fd7673d33f4e073e3bc27058/flowerby1",
+      "tags": [
+        "africa",
+        "latina",
+        "Pratiche",
+        "marginalit\u00e0",
+        "urbanizzazione",
+        "Organizzazione",
+        "america",
+        "Culturali",
+        "ineguale"
+      ],
+      "intraHash": "fb7edce6fd7673d33f4e073e3bc27058",
+      "interHash": "d7e2cb176589226d1af3e0ba5b606d2f",
+      "label": "La citt\u00e0 ineguale. Pratiche culturali e organizzazione della marginalit\u00e0 in Africa e America latina",
+      "user": "flowerby1",
+      "description": "La citt\u00e0 ineguale. Pratiche culturali e organizzazione della marginalit\u00e0 in Africa e America Latina (English title: The Unequal City. cultural practices and organization of marginality in Africa and Latin America) is a full-bodied Italian publication, curated by Raffaele Cattedra and Maurizio Memoli, which contains numerous works of Italian, French, Canadian and (most of all) African planners. \r\nMaurizio Memoli is a researcher at the Department of Social Sciences Oriental Institute of the University of Napoli, which plays its doctoral specialization at the University of Sorbonne (Paris). He deals with the geography of the third world and deepening issues related to the processes of urbanization. Raffaele Cattedra is instead a researcher at the IRMC (Institute De Recherche Sur Le Magred Contemporain) of Rabat, graduate in the Department of Studies and Research on Africa of Napoli's Oriental Istitute. He takes care of the deepening issues related to urbanization in third World, with particular reference to the cultural of the African Mediterranean world.\r\n\r\nI chose this book because it addresses urbanization from a symbolic and cultural point of view, leaving ample space for a deeper understanding of specific cases relating to cities and towns in Africa. Positive note of the book, is the authors' ability to connect the appearance of urban development models to a number of factors related to cultural, social and religious issues.\r\nInside the book, about 15 case studies are presented (both in comparative and monadic way) on the African and Latin American cities which are fastly developing, the cases are collected by a huge number of researchers and planners.\r\nCases are divided into two main blocks: urban perceptions and urban practices (in which mainly authors analyze the patterns of urbanization of the city in relation to the cultural practices of the people who live there), and the organization of social space (in which authors deal primarily with the issue of the establishment of urban sevices in the African cities between institutions and marginalities).\r\nEach block is always carefully introduced by a theoric preface of the two curators, who collects and puts together the ideas of commonality emerged from the various essays contained in the block, finding links.\r\nReferring in particular to the African city , the book presents and develops some very interesting examples of urbanization, among them very different.\r\n\r\nIn reference to the first conceptual block of the book (the one regarding the perceptions and urban practices), are examined the cases of Casablanca (Morocco),  Algiers (Algeria) and Omdurman (Sudan). The three cities have incredible differences in their urban development, not only in geography and infrastuctures, but also in terms of cultural and symbolic issues. \r\nAs noted by Cattedra, Casablanca is a city with a strong cultural heritage, which, according to testimonies gathered up from the 1970, represent the French colonial myth: international businessmen can feel at home, more that the native Marroccans. Today, between skyscrapers and slums, the city is undergoing a symbolic conversion, which is identified, more than in anything else, in the 'Islamic reappropriation'. The re-appropriation of the original religious model passes both as a symbol and as an important functional tool for the urban renewal. So, the muezzin's voices crop up in the international speculation's business area, which looks like at the same time like an 'architectural battlefield' but also a crossroads of cultural sharing, between mosques and the skyline. \r\nStill remaining in the north of Africa, Zineb Gerroudj (Ecole Polytechnique d'Architecture et d' urbanisme of Algiers) analyzes the relationship between Islam and urban structures in his cities, noting how, in a city now modern and advanced like Algiers, the cultural identity is preserved through the polarization of the urban fabric. Religious practices and commercial polarization are interpreted by the researcher both in terms of urban structure that in terms of urban  'temporality'. \r\nSara Pantuliano, leads us in Omdurman (Sudan) where the Kababish women (nomadic tribe) have become the bearers of the new urban living. The urbanization in Sudan, and more generally in the countries of the Sahel belt, since the 80' has focused mainly on the mass urbanization of nomadic pastoralists, who found spaces particulary in Omdurman. This urbanization has sanctioned a major life change for the numerous tribes. That change was possible thanks to the change of the role of women, unfortunately, at their expenses. This renewal, however, contains practical element of novelty, together with elements instead of big limitation to the women, who, transferred in the city, could no longer produce the artifacts that produced in the country, while infibulation is instead continue.\r\n\r\nNow we describe the second part of the book, the one about the social spaces. \r\nMostafa Kharoufi (Irmc of Tunisi) with its contribution tries to focus on the consequences of the recent politic crisis in the urban context of Khartoum (Sudan), whereas the bad management of the \"spontaneous zones\" (places that catalyze the settlements for refugees and immigrants) has significantly changed the face of the city, now plagued by problems in transport and disposal of water. \r\nR\u00e9jane Blary (Urbanisme Institute of Montreal), finds that despite the reforms on urban planning in Ivory Coast, the city of Abidjan still has a highly unequal and inadequate urban fabric, in which the main services, like electricity, disposal waste, until the access to the water network, are unusable for most of the population, stating the impossibility of structuring the city socially. \r\nYves Guillermou (Ives Sabatier University of Toulouse) hypothesizes a pivotal role in the urban development of the popular associations of Brazzaville and Kinshasa (Congo). In the Congolese context living in the city often symbolizes a constant struggle for survival, aided by the presence of informal organizations that complete the tasks of the government, responding to organizational difficulties and cultural kind of way: from food to religion, from water to modernizazione culture. \r\nAlways remaining in Congo, Joseph N'Guembo (University Marien N'Gouabi Brazzaville) notes that in the city of Pointe-Noire, the lack of services is remedied by a strengthening of the social fabric, which is constantly changing together with the architecture of the city . Daniel Dickens Priso (University of Dschang) analyzes the strategies of the conquest of space and urban integration, giving particular attention to building capacity, survival and planning capability of the native population of the Bamileke in northern Douala (Cameroon). \r\n\r\nA complex and multifaceted book, a good read that brings with international voices different opinions on one major theme: the need, in urban planning in Africa, to consider very carefully the patterns of life and cultural experiences of the inhabitants of the city. \r\n",
+      "date": "2014-04-10 00:42:49",
+      "changeDate": "2014-04-10 19:37:58",
+      "count": 1,
+      "pub-type": "book",
+      "publisher": "Mimesis",
+      "year": "1999",
+      "url": "",
+      "author": [
+        " a cura di Cattedra e Memoli"
+      ],
+      "authors": [
+        {
+          "first": "",
+          "last": "a cura di Cattedra e Memoli"
+        }
+      ],
+      "editor": [
+        " Mimesis"
+      ],
+      "editors": [
+        {
+          "first": "",
+          "last": "Mimesis"
+        }
+      ],
+      "volume": "1",
+      "number": "1",
+      "bibtexKey": "acuradicattedraememoli1999ineguale"
+    }
+  ]
+}
